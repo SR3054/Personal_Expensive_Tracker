@@ -5,7 +5,7 @@ import plotly.express as px
 from datetime import date
 
 # FastAPI backend URL
-API_URL = "http://127.0.0.1:8000"
+API_URL =  "https://personal-expensive-tracker-n959.onrender.com"
 
 # Page configuration
 st.set_page_config(
