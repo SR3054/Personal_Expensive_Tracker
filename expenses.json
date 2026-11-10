@@ -1,0 +1,18 @@
+[
+    {
+        "id": "6b02df9e-e1a3-4ec5-86d0-082e5337a8b8",
+        "title": "Groceries",
+        "amount": 2000.0,
+        "category": "Food",
+        "type": "Expense",
+        "date": "2026-11-10"
+    },
+    {
+        "id": "a99c4cac-c79c-487f-8415-cf120be7b24c",
+        "title": "Monthly Salary",
+        "amount": 30000.0,
+        "category": "Salary",
+        "type": "Income",
+        "date": "2026-11-11"
+    }
+]
